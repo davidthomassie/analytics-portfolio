@@ -161,8 +161,8 @@ plot_map_acs <- function(acs_st, acs_var, var_info, session) {
     inner_join(var_info, by = "variable") |>
     separate(col = NAME, into = c("county", "state"), sep = ", ") |>
     mutate(
-      county = reorder(gsub(" County", "", county), estimate),
       county = str_to_title(county),
+      county = reorder(gsub(" County", "", county), estimate),
       estimate_fmt = format_scale(
         estimate, cut = FALSE, usd = usd_detect(concept, label)
       ),
