@@ -1,0 +1,13 @@
+channel,season_name,season_total,channel_name,channel_type,season_color,season_tooltip
+facebook_page_likes,Autumn,137,Facebook,like,#a52a2a,+137 Facebook likes in Autumn
+facebook_page_likes,Spring,197,Facebook,like,#0f9d58,+197 Facebook likes in Spring
+facebook_page_likes,Summer,81,Facebook,like,#f4b400,+81 Facebook likes in Summer
+facebook_page_likes,Winter,265,Facebook,like,#4285f4,+265 Facebook likes in Winter
+instagram_followers,Autumn,71,Instagram,follower,#a52a2a,+71 Instagram followers in Autumn
+instagram_followers,Spring,92,Instagram,follower,#0f9d58,+92 Instagram followers in Spring
+instagram_followers,Summer,85,Instagram,follower,#f4b400,+85 Instagram followers in Summer
+instagram_followers,Winter,112,Instagram,follower,#4285f4,+112 Instagram followers in Winter
+website_clicks,Autumn,12,Website,click,#a52a2a,+12 Website clicks in Autumn
+website_clicks,Spring,7,Website,click,#0f9d58,+7 Website clicks in Spring
+website_clicks,Summer,7,Website,click,#f4b400,+7 Website clicks in Summer
+website_clicks,Winter,17,Website,click,#4285f4,+17 Website clicks in Winter

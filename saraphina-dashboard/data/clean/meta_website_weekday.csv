@@ -1,0 +1,22 @@
+channel,weekday,weekday_total,weekday_name,channel_name,channel_type,channel_color,weekday_tooltip
+facebook_page_likes,1,75,Sunday,Facebook,like,#316ff6,+75 Facebook likes on Sundays
+facebook_page_likes,2,76,Monday,Facebook,like,#316ff6,+76 Facebook likes on Mondays
+facebook_page_likes,3,90,Tuesday,Facebook,like,#316ff6,+90 Facebook likes on Tuesdays
+facebook_page_likes,4,129,Wednesday,Facebook,like,#316ff6,+129 Facebook likes on Wednesdays
+facebook_page_likes,5,116,Thursday,Facebook,like,#316ff6,+116 Facebook likes on Thursdays
+facebook_page_likes,6,105,Friday,Facebook,like,#316ff6,+105 Facebook likes on Fridays
+facebook_page_likes,7,89,Saturday,Facebook,like,#316ff6,+89 Facebook likes on Saturdays
+instagram_followers,1,49,Sunday,Instagram,follower,#dd2a7b,+49 Instagram followers on Sundays
+instagram_followers,2,51,Monday,Instagram,follower,#dd2a7b,+51 Instagram followers on Mondays
+instagram_followers,3,53,Tuesday,Instagram,follower,#dd2a7b,+53 Instagram followers on Tuesdays
+instagram_followers,4,85,Wednesday,Instagram,follower,#dd2a7b,+85 Instagram followers on Wednesdays
+instagram_followers,5,43,Thursday,Instagram,follower,#dd2a7b,+43 Instagram followers on Thursdays
+instagram_followers,6,43,Friday,Instagram,follower,#dd2a7b,+43 Instagram followers on Fridays
+instagram_followers,7,36,Saturday,Instagram,follower,#dd2a7b,+36 Instagram followers on Saturdays
+website_clicks,1,7,Sunday,Website,click,#670078,+7 Website clicks on Sundays
+website_clicks,2,7,Monday,Website,click,#670078,+7 Website clicks on Mondays
+website_clicks,3,11,Tuesday,Website,click,#670078,+11 Website clicks on Tuesdays
+website_clicks,4,5,Wednesday,Website,click,#670078,+5 Website clicks on Wednesdays
+website_clicks,5,6,Thursday,Website,click,#670078,+6 Website clicks on Thursdays
+website_clicks,6,4,Friday,Website,click,#670078,+4 Website clicks on Fridays
+website_clicks,7,3,Saturday,Website,click,#670078,+3 Website clicks on Saturdays
