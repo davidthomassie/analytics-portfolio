@@ -26,7 +26,6 @@ A Shiny web application that provides interactive visualization of U.S. Census B
 - [`shiny`](https://shiny.posit.co): Web application framework for interactive data exploration
 - [`bslib`](https://rstudio.github.io/bslib): Bootstrap-based theming for Shiny applications
 - [`tidycensus`](https://walker-data.com/tidycensus): Accessing U.S. Census Bureau data
-- [`mapgl`](https://walker-data.com/mapgl): Leverage MapLibre GL JS framework
 - [`ggiraph`](https://davidgohel.github.io/ggiraph): Interactive graphics extension
 
 #
