@@ -22,8 +22,9 @@ professional, brand-consistent design.
 - [`R`](https://www.r-project.org): Statistical programming language for data processing, visualization, and app development
 - [`tidyverse`](https://www.tidyverse.org): Meta-package containing data science tools that share underlying design philosophy, grammar, and data structures
 - [`shiny`](https://shiny.posit.co): Web application framework for interactive data exploration
-- [`tidycensus`](https://walker-data.com/tidycensus): Accessing U.S. Census Bureau data
 - [`bslib`](https://rstudio.github.io/bslib): Bootstrap-based theming for Shiny applications
+- [`tidycensus`](https://walker-data.com/tidycensus): Accessing U.S. Census Bureau data
+- [`mapgl`](https://walker-data.com/mapgl): Leverage MapLibre GL JS framework
 - [`ggiraph`](https://davidgohel.github.io/ggiraph): Interactive graphics extension
 - [`DT`](https://rstudio.github.io/DT): Interface to the DataTables JavaScript library
 

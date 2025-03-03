@@ -16,7 +16,7 @@ An interactive business intelligence dashboard that visualizes social media enga
 - **Primary Language**: R
 - **Key Frameworks**: Shiny, tidyverse
 - **Data Sources**: Google Search Console, Meta Business Suite, U.S. Census Bureau (ACS)
-- **Visualization**: ggplot2, ggiraph, MapLibre GL JS
+- **Visualization**: ggplot2, ggiraph, mapgl (MapLibre GL JS)
 - **Styling**: bslib (Bootstrap themes)
 
 #
