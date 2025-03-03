@@ -6,7 +6,10 @@ usd_detect <- \(x, y) any(str_detect(c(x, y), usd_regex))
 
 link_logo <- function(img, url) {
   tags$a(
-    tags$img(src = img, width = "90px", height = "auto", ""),
+    tags$img(
+      style = "padding-top: 10px; padding-bottom: 10px;",
+      src = img, width = "100px", height = "auto", ""
+    ),
     href = url, target = "_blank", rel = "noopener noreferrer"
   )
 }
