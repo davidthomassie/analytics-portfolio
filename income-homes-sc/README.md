@@ -19,9 +19,9 @@ A Shiny web application that visualizes income and home values across South Caro
 - [`R`](https://www.r-project.org): Statistical programming language for data processing, visualization, and app development
 - [`tidyverse`](https://www.tidyverse.org): Meta-package containing data science tools that share underlying design philosophy, grammar, and data structures
 - [`shiny`](https://shiny.posit.co): Web application framework for interactive data exploration
+- [`bslib`](https://rstudio.github.io/bslib): Bootstrap-based theming for Shiny applications
 - [`tidycensus`](https://walker-data.com/tidycensus): Accessing U.S. Census Bureau data
 - [`mapgl`](https://walker-data.com/mapgl): Interactive mapping with MapLibre GL JS
-- [`bslib`](https://rstudio.github.io/bslib): Bootstrap-based theming for Shiny applications
 
 #
 
