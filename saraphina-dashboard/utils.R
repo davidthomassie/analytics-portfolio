@@ -81,7 +81,7 @@ ggiraph_area_col <- function(df, x, y, z, tt = NULL) {
     )
 }
 
-ggiraph_tile <-function(df, x, y, z, tt = NULL) {
+ggiraph_tile <- function(df, x, y, z, tt = NULL) {
   ggplot(df, aes({{x}}, {{y}}, fill = {{y}})) +
     geom_tile_interactive(
       aes(
